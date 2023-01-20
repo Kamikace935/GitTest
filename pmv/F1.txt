@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacion del primer fichero en el master
+=======
+Modificacion del primer fichero en la nueva rama
+>>>>>>> 1c22780 (Modificacion primer fichero en rama)
